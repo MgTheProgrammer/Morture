@@ -1,0 +1,7 @@
+#pragma once
+#define SHARED_KEY_SIZE 32
+#define HMAC_PLACEHOLDER '0'
+
+
+#define USERNAME_LEN_FIELD_WIDTH 2
+#define PASSWORD_LEN_FIELD_WIDTH 2
